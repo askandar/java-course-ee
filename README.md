@@ -1,6 +1,6 @@
 Java Course Examples
 ========
-
+test
 This repository is for course [examples](http://java-course.ru/courses/javaee/)
 
 The project structure(maven/idea) is under construction.
